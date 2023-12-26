@@ -18,3 +18,10 @@ Description: Additional feature for the project (Number 3)
 Commit: Created common feature FLOW-3
 
 ----------------------------------------------------------
+
+Task: FLOW-4
+Branch: bugfix/FLOW-4
+Description: Bugfix for the project (Number 4)
+Commit: Created common bugfix FLOW-4
+
+----------------------------------------------------------
