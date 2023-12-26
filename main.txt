@@ -1,0 +1,6 @@
+Task: FLOW-1
+Branch: main
+Description: Project initialized, created main branch.
+Commit: Created initial branch main
+
+----------------------------------------------------------
