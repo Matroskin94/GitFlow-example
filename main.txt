@@ -56,3 +56,10 @@ Description: Feature for the project (Number 8)
 Commit: Created common feature FLOW-8
 
 ----------------------------------------------------------
+
+Release: 3
+Branch: smokefix/FLOW-9
+Description: Feature for the project (Number 9)
+Commit: Created smokefix on stage_26_12_2023_3 FLOW-9
+
+----------------------------------------------------------
