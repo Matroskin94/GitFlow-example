@@ -41,3 +41,33 @@ Description: Feature for the project (Number 6)
 Commit: Created common feature FLOW-6
 
 ----------------------------------------------------------
+
+Task: FLOW-7
+Release: 3
+Branch: feature/FLOW-7
+Description: Feature for the project (Number 7)
+Commit: Created common feature FLOW-7
+
+----------------------------------------------------------
+
+Release: 3
+Branch: feature/FLOW-8
+Description: Feature for the project (Number 8)
+Commit: Created common feature FLOW-8
+
+----------------------------------------------------------
+
+Release: 3
+Branch: smokefix/FLOW-9
+Description: Feature for the project (Number 9)
+Commit: Created smokefix on stage_26_12_2023_3 FLOW-9
+
+----------------------------------------------------------
+
+
+Release: 3
+Branch: smokefix/FLOW-10
+Description: Feature for the project (Number 10)
+Commit: Created smokefix on stage_26_12_2023_3 FLOW-10
+
+----------------------------------------------------------
