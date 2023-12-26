@@ -4,3 +4,10 @@ Description: Project initialized, created main branch.
 Commit: Created initial branch main
 
 ----------------------------------------------------------
+
+Task: FLOW-2
+Branch: feature/FLOW-2
+Description: Created sh script for creating develop/stage/uat branches
+Commit: Created sh script for base branches
+
+----------------------------------------------------------
