@@ -11,3 +11,10 @@ Description: Created sh script for creating develop/stage/uat branches
 Commit: Created sh script for base branches
 
 ----------------------------------------------------------
+
+Task: FLOW-3
+Branch: feature/FLOW-3
+Description: Additional feature for the project (Number 3)
+Commit: Created common feature FLOW-3
+
+----------------------------------------------------------
