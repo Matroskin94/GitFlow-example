@@ -49,3 +49,10 @@ Description: Feature for the project (Number 7)
 Commit: Created common feature FLOW-7
 
 ----------------------------------------------------------
+
+Release: 3
+Branch: feature/FLOW-8
+Description: Feature for the project (Number 8)
+Commit: Created common feature FLOW-8
+
+----------------------------------------------------------
