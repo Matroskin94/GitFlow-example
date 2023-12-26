@@ -33,3 +33,11 @@ Description: Feature for the project (Number 5)
 Commit: Created common feature FLOW-5
 
 ----------------------------------------------------------
+
+Task: FLOW-6
+Release: 2
+Branch: feature/FLOW-6
+Description: Feature for the project (Number 6)
+Commit: Created common feature FLOW-6
+
+----------------------------------------------------------
