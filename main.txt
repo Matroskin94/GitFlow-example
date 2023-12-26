@@ -4,3 +4,70 @@ Description: Project initialized, created main branch.
 Commit: Created initial branch main
 
 ----------------------------------------------------------
+
+Task: FLOW-2
+Branch: feature/FLOW-2
+Description: Created sh script for creating develop/stage/uat branches
+Commit: Created sh script for base branches
+
+----------------------------------------------------------
+
+Task: FLOW-3
+Branch: feature/FLOW-3
+Description: Additional feature for the project (Number 3)
+Commit: Created common feature FLOW-3
+
+----------------------------------------------------------
+
+Task: FLOW-4
+Branch: bugfix/FLOW-4
+Description: Bugfix for the project (Number 4)
+Commit: Created common bugfix FLOW-4
+
+----------------------------------------------------------
+
+Task: FLOW-5
+Release: 2
+Branch: feature/FLOW-5
+Description: Feature for the project (Number 5)
+Commit: Created common feature FLOW-5
+
+----------------------------------------------------------
+
+Task: FLOW-6
+Release: 2
+Branch: feature/FLOW-6
+Description: Feature for the project (Number 6)
+Commit: Created common feature FLOW-6
+
+----------------------------------------------------------
+
+Task: FLOW-7
+Release: 3
+Branch: feature/FLOW-7
+Description: Feature for the project (Number 7)
+Commit: Created common feature FLOW-7
+
+----------------------------------------------------------
+
+Release: 3
+Branch: feature/FLOW-8
+Description: Feature for the project (Number 8)
+Commit: Created common feature FLOW-8
+
+----------------------------------------------------------
+
+Release: 3
+Branch: smokefix/FLOW-9
+Description: Feature for the project (Number 9)
+Commit: Created smokefix on stage_26_12_2023_3 FLOW-9
+
+----------------------------------------------------------
+
+
+Release: 3
+Branch: smokefix/FLOW-10
+Description: Feature for the project (Number 10)
+Commit: Created smokefix on stage_26_12_2023_3 FLOW-10
+
+----------------------------------------------------------
