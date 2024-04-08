@@ -71,3 +71,10 @@ Description: Feature for the project (Number 10)
 Commit: Created smokefix on stage_26_12_2023_3 FLOW-10
 
 ----------------------------------------------------------
+
+Release: none
+Branch: hotfix/FLOW-11
+Description: Fix for the project (Number 11)
+Commit: Created hotfix on main FLOW-11
+
+----------------------------------------------------------
